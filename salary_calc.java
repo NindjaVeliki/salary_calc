@@ -10,10 +10,10 @@ public class salary_calc {
         final double MONTH_DAYS = 21.6;
         final double WORK_HRS = 8;
 
-        // create a Scanner object for keyboard input
+      
         Scanner keyboard = new Scanner(System.in);
      System.out.print("Enter the number of months worked: ");
-     months = keyboard.nextInt(); //store the value for months
+     months = keyboard.nextInt(); 
     
      
      
